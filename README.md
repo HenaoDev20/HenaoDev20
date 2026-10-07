@@ -92,4 +92,4 @@ EMAIL: brianjimenezhenao@gmail.com  bjimenez98222@umanizales.edu.co Phone: 31237
 
 ---
 
-### 💡 Building, learning and improving one commit at a time.
+### 💡 Working on building the best version of myself.
