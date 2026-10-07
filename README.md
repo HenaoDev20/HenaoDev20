@@ -88,7 +88,7 @@ Artificial Intelligence
 ---
 
 ## 🤝 Connect With Me
-EMAIL: brianjimenezhenao@gmailcom Phone: 3123705305
+EMAIL: brianjimenezhenao@gmail.com  bjimenez98222@umanizales.edu.co Phone: 3123705305
 
 ---
 
