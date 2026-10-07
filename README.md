@@ -88,8 +88,6 @@ Artificial Intelligence
 ---
 
 ## 🤝 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Brian_Jiménez_Henao-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brian-jimenez-henao-ba760935b)
 EMAIL: brianjimenezhenao@gmailcom Phone: 3123705305
 
 ---
