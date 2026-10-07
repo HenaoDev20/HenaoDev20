@@ -1,68 +1,104 @@
+# 👋 Hi, I'm Brian Jiménez Henao
 
+### 💻 Backend Developer | Systems & Telecommunications Engineering Student
 
-# Hi, I'm Brian Jiménez 
+I'm a Systems and Telecommunications Engineering student focused on **Backend Development**, with experience building REST APIs and working with relational databases.
 
-### Backend Developer | Systems & Telecommunications Engineering Student
+I enjoy designing structured backend solutions, solving technical problems, and continuously learning new technologies.
 
-I'm a Backend Developer focused on building scalable and well-structured applications using **Node.js, Express.js, PostgreSQL and MySQL**.
+---
 
-I enjoy designing REST APIs, working with databases, implementing authentication and authorization, and building backend architectures focused on maintainability and real-world business needs.
+## 🚀 About Me
 
-##  Tech Stack
+- 🎓 Systems & Telecommunications Engineering student — 9th semester
+- 💻 Focused on **Backend Development**
+- ⚙️ Building REST APIs with **Node.js & Express.js**
+- 🗄️ Working with **PostgreSQL & MySQL**
+- 🐳 Learning and working with **Docker & Linux**
+- 🤖 Exploring automation and local AI with **n8n, Ollama & LLMs**
+- 🌱 Currently improving my skills in backend architecture, databases and software development
 
-**Backend**
-- Node.js
-- Express.js
-- REST APIs
-- JWT & bcrypt
+---
 
-**Databases**
-- PostgreSQL
-- MySQL
-- SQL
+## 🛠️ Tech Stack
 
-**DevOps & Tools**
-- Docker
-- Git & GitHub
-- Linux
-- Bash
-- Postman
+### Backend & Languages
 
-**Other Technologies**
-- Python
-- HTML & CSS
-- n8n
-- Ollama & Local LLMs
-- TCP/IP & Networking
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
+![Express.js](https://img.shields.io/badge/Express.js-000?style=for-the-badge&logo=express)
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=postgresql)
 
-##  Featured Project
+### Databases
 
-###  Online Store API
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql)
 
-Full-stack e-commerce project built with **Node.js, Express.js and PostgreSQL**.
+### Tools & Infrastructure
 
-Key features:
-- REST API architecture
-- JWT authentication
-- Password hashing with bcrypt
-- Role-based authorization
-- Product management
-- Shopping cart
-- Order management
-- Stock validation
-- PostgreSQL transactions
-- API testing with Postman
+![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker)
+![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
+![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux)
+![Postman](https://img.shields.io/badge/Postman-000?style=for-the-badge&logo=postman)
 
-##  Currently
+### Automation & AI
 
- 9th-semester **Systems and Telecommunications Engineering** student.
+![n8n](https://img.shields.io/badge/n8n-000?style=for-the-badge&logo=n8n)
+![Ollama](https://img.shields.io/badge/Ollama-000?style=for-the-badge&logo=ollama)
 
- Strengthening my skills in **Backend Development, Software Architecture, Databases, Docker and Cloud technologies**.
+---
 
- Exploring **automation and local AI solutions with n8n, Ollama and LLMs**.
+## 📌 Featured Project
 
-##  Connect with me brianjimenezhenao@gmail.com / 3123705305
+### 🛒 Online Store
 
-LinkedIn: Brian Jiménez Henao
+Backend-focused e-commerce application built with **Node.js, Express.js and PostgreSQL**.
 
-GitHub: @HenaoDev20
+**Key features:**
+
+- 🔐 Authentication with JWT and bcrypt
+- 👥 Role-based authorization
+- 📦 Product management
+- 🛒 Shopping cart
+- 🧾 Order management
+- 📊 Stock and inventory validation
+- 🗄️ PostgreSQL transactions
+- 🧪 API testing with Postman
+- 🏗️ Layered backend architecture
+
+**Tech Stack:** `Node.js` · `Express.js` · `PostgreSQL` · `JavaScript` · `JWT` · `bcrypt`
+
+---
+
+## 📚 Currently Learning
+
+```text
+Backend Architecture
+Advanced Node.js
+PostgreSQL
+Docker
+Linux
+Networking
+Automation
+Artificial Intelligence
+```
+
+---
+
+## 📊 GitHub Stats
+
+![Brian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HenaoDev20&show_icons=true&theme=github_dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HenaoDev20&layout=compact&theme=github_dark&hide_border=true)
+
+---
+
+## 🤝 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Brian_Jiménez_Henao-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brian-jimenez-henao-ba760935b)
+
+---
+
+### 💡 Building, learning and improving one commit at a time.
