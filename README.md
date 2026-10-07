@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Brian Jiménez Henao
+#  Hi, I'm Brian Jiménez Henao
 
 ### 💻 Backend Developer | Systems & Telecommunications Engineering Student
 
@@ -87,17 +87,10 @@ Artificial Intelligence
 
 ---
 
-## 📊 GitHub Stats
-
-![Brian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HenaoDev20&show_icons=true&theme=github_dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HenaoDev20&layout=compact&theme=github_dark&hide_border=true)
-
----
-
 ## 🤝 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Brian_Jiménez_Henao-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brian-jimenez-henao-ba760935b)
+EMAIL: brianjimenezhenao@gmailcom Phone: 3123705305
 
 ---
 
